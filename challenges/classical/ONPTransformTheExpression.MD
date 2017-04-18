@@ -27,5 +27,4 @@ Example
 abc*+
 ab+zx+*
 at+bac++cd+^*
- Submit solution!
 ```
