@@ -1,5 +1,5 @@
 # SBSTR1 - Substring Check (Bug Funny)
-no tags 
+<p align="center"> no tags </p>
 
 Given two binary strings, A (of length 10) and B (of length 5), output 1 if B is a substring of A and 0 otherwise.
 
